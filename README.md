@@ -7,10 +7,15 @@ This project simulates a **retail business database** for S-Mart and demonstrate
 ## 📂 Project Structure
 
 s-mart-sql-analytics/
+
 │── main.db # SQLite database file (created after running schema + data)
+
 │── schema.sql # Database schema (tables + relationships)
+
 │── data.sql # Sample dataset inserts (customers, products, orders, etc.)
+
 │── queries.sql # Business analytics queries (KPIs & insights)
+
 │── README.md # Project documentation
 
 
