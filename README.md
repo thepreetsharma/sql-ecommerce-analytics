@@ -83,7 +83,7 @@ Some of the key insights included in `queries.sql`:
 2. Run `schema.sql` → creates tables in `main.db`.  
 3. Run `data.sql` → loads sample dataset.  
 4. Run queries from `queries.sql` → generate insights.  
-5. (Optional) Connect `main.db` to **Power BI/Tableau** for interactive dashboards.  
+5. Run .pbix file to view the dynamic dashboard.  
 
 ---
 
@@ -101,8 +101,7 @@ This project demonstrates:
 
 - Expand dataset to **50–100+ rows** across multiple months/customers  
 - Add **indexes** for performance optimization  
-- Connect with Python (Pandas/SQLite3) for additional analysis  
-- Build interactive **Power BI dashboard**  
+- Connect with Python (Pandas/SQLite3) for additional analysis    
 
 ---
 
